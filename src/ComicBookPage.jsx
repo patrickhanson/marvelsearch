@@ -30,7 +30,7 @@ class ComicBookPage extends Component {
         const ts = "1"
         const hash = "7e9a6f0439c442930f6bcf44fdd8dd49"
         console.log(id)
-        fetch(`http://gateway.marvel.com/v1/public/comics/${id}?apikey=${apikey}&ts=${ts}&hash=${hash}`, requestOptions)
+        fetch(`https://gateway.marvel.com/v1/public/comics/${id}?apikey=${apikey}&ts=${ts}&hash=${hash}`, requestOptions)
             .then(response => response.json())
             .then(data => {
                 this.setState({ 
