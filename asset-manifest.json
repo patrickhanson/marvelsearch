@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/marvelsearch/static/css/main.5b52635d.chunk.css",
-    "main.js": "/marvelsearch/static/js/main.a0a94c66.chunk.js",
-    "main.js.map": "/marvelsearch/static/js/main.a0a94c66.chunk.js.map",
+    "main.js": "/marvelsearch/static/js/main.e219dd06.chunk.js",
+    "main.js.map": "/marvelsearch/static/js/main.e219dd06.chunk.js.map",
     "runtime-main.js": "/marvelsearch/static/js/runtime-main.47a92b2c.js",
     "runtime-main.js.map": "/marvelsearch/static/js/runtime-main.47a92b2c.js.map",
     "static/js/2.2392efd2.chunk.js": "/marvelsearch/static/js/2.2392efd2.chunk.js",
     "static/js/2.2392efd2.chunk.js.map": "/marvelsearch/static/js/2.2392efd2.chunk.js.map",
     "index.html": "/marvelsearch/index.html",
-    "precache-manifest.b2ecc42cf4359a4363d332d9f37a005d.js": "/marvelsearch/precache-manifest.b2ecc42cf4359a4363d332d9f37a005d.js",
+    "precache-manifest.2c0e2afcbefef9c00eaabb8edab5ec6d.js": "/marvelsearch/precache-manifest.2c0e2afcbefef9c00eaabb8edab5ec6d.js",
     "service-worker.js": "/marvelsearch/service-worker.js",
     "static/css/main.5b52635d.chunk.css.map": "/marvelsearch/static/css/main.5b52635d.chunk.css.map",
     "static/media/Font-Marvel-Logo.jpg": "/marvelsearch/static/media/Font-Marvel-Logo.0392e6da.jpg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.47a92b2c.js",
     "static/js/2.2392efd2.chunk.js",
     "static/css/main.5b52635d.chunk.css",
-    "static/js/main.a0a94c66.chunk.js"
+    "static/js/main.e219dd06.chunk.js"
   ]
 }
